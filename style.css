@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body{
+    font-family: 'Baloo 2', cursive;
+}
+h1{
+    margin-top: 20px;
+}
+input{
+    margin-bottom: 30px;
+}
+.top-section{
+    background-image:url(donation8.jpg);
+    background-size:cover;
+    background-position: center;
+    height:80vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+
+}
+.center{
+    padding-top: 200px;
+    color: rgb(236, 232, 227);
+    width: 800px;
+}
+.center h1{
+       font-size: 3rem;
+       text-align: center;  
+}
+.center p{
+       font-size: 1.5rem;
+       text-align: center;
+}
+.center button{
+    padding:15px;
+    color:white;
+    background-color: rgb(195, 29, 29);
+    border: 0;
+    font-size: 1.4rem;
+    border-radius: 6px;
+    display: block;
+    margin: 0 auto;
+
+    text-align: center;
+}
+.teka-section{
+    display:flex;
+    justify-content: center;
+}
+.center2 { 
+    width: 800px;
+    text-align: center;
+    font-size: 1rem;
+    padding-left:20px;
+}
+.center2 p{
+    color: rgb(92, 92, 92);
+}
+.btncontainer{
+    display:flex;
+    justify-content: space-between;
+}
+.btncontainer{
+    color: rgb(2, 97, 100);
+    border: 0px;
+    font-size:3rem;
+    padding: 15px;
+}
+.btncontainer button{
+    padding: 20px 30px; 
+}
+.speci-btn{
+    border:2px solid rgb(244,88,114) !important;
+    border-radius: 6px;
+    color:rgb(243, 113 ,135) !important;
+    background-color:rgb(254,235,238);
+}
+#input{
+    width:800px;
+    margin-top:50px;
+    text-align:center;
+    border: 0;
+    border-bottom: 2px solid rgb(233, 37, 37);
+    padding: 20px 0;
+}
+
+body{
+    font-family: 'Baloo 2', cursive;
+}
+.center-section{
+    width: 1200px;
+margin: auto;
+
+}
+.fst-subConteiner{
+    display: flex;
+    justify-content: space-between;
+
+}
+.cart{
+    width: 550px;
+}.cart img{
+    width: 550px;
+        border-radius: 8px;
+}.cart button{
+    padding: 12px 20px;
+    border: 0;
+    background-color: rgb(231, 96, 13);
+    color: white;
+    font-weight: 800;
+    border-radius: 8px;
+}
+.cart h1 {
+    font-size:45px;
+}
+.text-color{
+    color: gray;
+  
+}
+.donate-plan{
+    width: 1200px;
+    margin: auto;
+}
+.donate-title{
+    text-align: center;
+    margin: 60px 0;
+}
+.icon{
+    width: 50px;
+    margin-top: 30px;
+}
+.donate-items{
+    display: flex;
+}
+.item1{
+    background-color: rgba(0, 255, 255, 0.379);
+    padding: 20px;
+    border-radius: 6px;
+    margin-right: 20px;
+}.item2{
+    background-color: rgba(234, 255, 0, 0.275);
+    padding: 20px;
+    border-radius: 6px;
+        margin-right: 20px;
+}.item3{
+    background-color: rgba(0, 255, 166, 0.392);
+   padding: 20px;
+    border-radius: 6px;
+}
+.feedback{
+    width: 1200px;
+    margin:auto
+
+}
+.feedback-title{
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    
+}
+.feedback-unit{
+
+}
+*{
+    margin:0;
+    padding:0
+}
+.input-fild{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+}.input-fild input{
+   width: 200px;
+   padding:16px 15px;
+    border-radius: 0;
+    border: 0;
+    background-color: rgb(207, 207, 207);
+    border-radius: 5px 0 0 5px;
+   
+}
+.input-fild button {
+    height: 48px;
+    width: 150px;
+    padding: 16px 20px;
+    background-color: orangered;
+    border: 0 ;
+    color: #fff;
+    border-radius:  0 5px 5px 0;
+}
+.feedback-unit{
+    background-color: antiquewhite;
+    padding: 60px 0;
+}.footer{
+    background-color: rgb(14, 1, 43);
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.footer h1{
+font-family: 'Courgette', cursive;
+color: tomato;
+padding: 20px;
+}
+.footer p {
+    color: darkgray;
+
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
