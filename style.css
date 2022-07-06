@@ -10,7 +10,7 @@ input{
     margin-bottom: 30px;
 }
 .top-section{
-    background-image:url(donation8.jpg);
+    background-image:url(donation4.jpg);
     background-size:cover;
     background-position: center;
     height:80vh;
@@ -44,7 +44,7 @@ input{
 
     text-align: center;
 }
-.teka-section{
+.tk-section{
     display:flex;
     justify-content: center;
 }
